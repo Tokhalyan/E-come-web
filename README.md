@@ -1,5 +1,8 @@
 # E-come-web
 
+## Walkthrough video
+
+
 ## User Story
 * AS A manager at an internet retail company
 * I WANT a back end for my e-commerce website that uses the latest technologies
@@ -18,3 +21,22 @@
 * WHEN I test API POST, PUT, and DELETE routes in Insomnia
 * THEN I am able to successfully create, update, and delete data in my database
 
+## Description
+* This is a back end for an e-commerce website. The back end is built using Express.js and Sequelize.
+* Users can use any of the API clients to test the back end.
+* There are 3 main routes for Products, Categories, and Tags.
+
+## Built with
+* Node.js
+* Express.js
+* MySQL
+
+## Installations
+* dotenv
+* sequelize
+* express
+* mysql2
+* nodemon (DevDependencie)
+
+## Contribution
+Made with ❤️ by Shahen Tokhalyan
