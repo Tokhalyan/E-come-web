@@ -1,7 +1,7 @@
 # E-come-web
 
 ## Walkthrough video
-
+https://drive.google.com/file/d/1nP2NwB2VDl7gd3Fnebpsq48sMBg6eTdA/view?usp=sharing
 
 ## User Story
 * AS A manager at an internet retail company
